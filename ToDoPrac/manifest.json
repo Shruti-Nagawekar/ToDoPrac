@@ -6,6 +6,6 @@
     "author": "Tiffany Janzen",
     "action":{
         "default_popup": "index.html",
-        "default_title": "Upcoming Texas Concerts",
+        "default_title": "Upcoming Texas Concerts"
     }
 }
