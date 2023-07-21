@@ -1,0 +1,11 @@
+{
+    "name": "Upcoming Texas Concerts",
+    "version": "1.0,0",
+    "description": "THis is an extension to look up concerts coming to Texas",
+    "manifest_version": 3,
+    "author": "Tiffany Janzen",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Upcoming Texas Concerts"
+    }
+}
